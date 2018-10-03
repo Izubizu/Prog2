@@ -12,3 +12,8 @@
   -Szülő-gyerek - működik
   -Anti OO - java -működik
            -c++ - megkezdve
+           
+           
+3. hét
+
+ -megkezdve
