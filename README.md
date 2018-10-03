@@ -13,7 +13,9 @@
   -Anti OO - java -működik
            -c++ - megkezdve
            
-           
-3. hét
+3. hét           
 
- -megkezdve
+-Forward: Megkezdve. 
+-Esettan: Megkezdve. 
+-BPMN: Megkezdve. 
+-BPEL: Megkezdve
